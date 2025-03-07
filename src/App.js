@@ -1,3 +1,5 @@
+import CookiesConsent from "./components/marketing-components/cookies-consent"
+
 export default function App() {
-  return <h1>Teste</h1>
+  return <CookiesConsent />
 }

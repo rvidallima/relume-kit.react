@@ -1,0 +1,27 @@
+.container {
+    width: 1024px;
+    height: 136px;
+    padding: 32px 32px 32px 48px;
+    display: flex;
+    gap: 32px;
+    border: 1px solid black;
+}
+
+.button-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 16px;       
+}
+
+.text-button
+{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    padding: 12px 24px;
+}
+
+.black {
+    color: white;
+    background-color: black;
+}
